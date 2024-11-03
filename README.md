@@ -8,3 +8,6 @@
 
 ## THUMBNAIL PAGE
 <img width="1792" alt="Ekran Resmi 2024-11-03 15 16 07" src="https://github.com/user-attachments/assets/467660c7-73c9-4fdb-87dd-7e57e832fb30">
+
+## MORE INFO VIDEO PAGE
+<img width="1792" alt="Ekran Resmi 2024-11-03 15 15 51" src="https://github.com/user-attachments/assets/aba136b1-5228-493e-8528-9edae4caaa24">
